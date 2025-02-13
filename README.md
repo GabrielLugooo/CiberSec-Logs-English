@@ -1,8 +1,8 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
-# CYBERSECURITY LOGS DOCUMENTATION ENGLISH
+# CYBERSECURITY LOGS DOCUMENTATION IN ENGLISH
 
-## Objective
+### Objective
 
 The Cybersecurity Logs Documentation project aims to centralize and organize various security log records to enhance cybersecurity analysis and threat detection. By compiling logs from different sources, this repository provides a structured dataset for research, training, and real-world security assessments.
 
@@ -27,7 +27,7 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
+### Steps
 
 - Access Control Logs
 - Audits Logs
@@ -38,11 +38,10 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - Risk Register Logs
 - Vulnerability Assessment Logs
 
-<details>
-<summary><h3>Cybersecurity Logs Documentation</h3></summary>
+---
+
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Records-000000" alt="English Records" /></a>
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Records-000000" alt="Spanish Records" /></a>
-</details>
 
 <h3 align="left">Connect with me</h3>
 
@@ -61,8 +60,6 @@ By consolidating these logs into a single repository, we aim to create a compreh
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Version-000000" alt="English Version" /></a>
 <a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/Readme%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-Green" alt="Spanish Version" /></a>
 </p>
-
----
 
 <a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
