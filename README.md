@@ -1,6 +1,9 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
-# CYBERSECURITY LOGS DOCUMENTATION IN ENGLISH
+# CYBERSECURITY LOGS DOCUMENTATION
+
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-green" alt="Spanish Logs" /></a>
 
 ### Objective
 
@@ -27,7 +30,7 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-### Logs
+### Logs Categories:
 
 <p align="left">
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Acces%20Control%20Logs-000000" alt="Access Control Logs" /></a>
@@ -44,9 +47,6 @@ By consolidating these logs into a single repository, we aim to create a compreh
 </p>
 
 ---
-
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-000000" alt="Spanish Logs" /></a>
 
 <h3 align="left">Connect with me</h3>
 
