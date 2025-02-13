@@ -27,9 +27,13 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-### Steps
+### Logs
 
-- Access Control Logs
+<p align="left">
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Acces%20Control%20Logs-000000" alt="Access Control Logs" /></a>
+
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener">Access Control Logs</a>
+
 - Audits Logs
 - IOC Indicators Logs
 - Incidents Logs
@@ -37,6 +41,7 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - Phishing Logs
 - Risk Register Logs
 - Vulnerability Assessment Logs
+</p>
 
 ---
 
