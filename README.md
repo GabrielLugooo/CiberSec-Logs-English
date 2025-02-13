@@ -32,7 +32,6 @@ By consolidating these logs into a single repository, we aim to create a compreh
 
 ### Logs Categories:
 
-<p align="left">
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener">Access Control Logs</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Audits" target="_blank" rel="noreferrer noopener">Audits Logs</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/IOC%20Indicators" target="_blank" rel="noreferrer noopener">IOC Indicators Logs</a>
@@ -41,7 +40,6 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Phishing" target="_blank" rel="noreferrer noopener">Phishing Logs</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Risk%20Register" target="_blank" rel="noreferrer noopener">Risk Register Logs</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Vulnerability%20Assessment" target="_blank" rel="noreferrer noopener">Vulnerability Assessment Logs</a>
-</p>
 
 ---
 
