@@ -40,8 +40,8 @@ By consolidating these logs into a single repository, we aim to create a compreh
 
 ---
 
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Records-000000" alt="English Records" /></a>
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Records-000000" alt="Spanish Records" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-000000" alt="Spanish Logs" /></a>
 
 <h3 align="left">Connect with me</h3>
 
