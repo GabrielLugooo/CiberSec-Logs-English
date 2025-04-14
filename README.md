@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1749686400&v=beta&t=hBmszzzG0Zu-m7ZxeCdU5VxgDWqIZuWB0vnrMycuqY4" alt="gabriellugo" />
 
 # CYBERSECURITY LOGS DOCUMENTATION
 
@@ -40,7 +40,7 @@ By consolidating these logs into a single repository, we aim to create a compreh
 
 ### Open/Download from Drive:
 
-<a href="https://drive.google.com/drive/folders/1Km1tZT88rLYPW4dcRmixoJXad_f8pV2t?usp=drive_link" target="_blank" rel="noreferrer noopener">Cybersecurity Logs Documentation in English</a>
+- <a href="https://drive.google.com/drive/folders/1Km1tZT88rLYPW4dcRmixoJXad_f8pV2t?usp=drive_link" target="_blank" rel="noreferrer noopener">Cybersecurity Logs Documentation in English</a>
 
 ### Download from GitHub by Log Categories:
 
