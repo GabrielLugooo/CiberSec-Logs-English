@@ -38,7 +38,11 @@ By consolidating these logs into a single repository, we aim to create a compreh
 - Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-### Logs Categories:
+### Open/Download from Drive:
+
+<a href="https://drive.google.com/drive/folders/1Km1tZT88rLYPW4dcRmixoJXad_f8pV2t?usp=drive_link" target="_blank" rel="noreferrer noopener">Cybersecurity Logs Documentation in English</a>
+
+### Download from GitHub by Log Categories:
 
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener">Access Control Logs</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Audits" target="_blank" rel="noreferrer noopener">Audits Logs</a>
